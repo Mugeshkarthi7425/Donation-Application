@@ -1,0 +1,23 @@
+.navbar {
+    font-weight: bold;
+    font-size: large;
+    
+    color:blue;
+    height:50px;
+    }
+    .navbar ul{
+        display:flex;
+        
+        }
+ .navbar ul li{
+    list-style-type: none;
+        margin: 0;
+    }
+.navbar ul li a{
+    text-decoration: none;
+    background-color:transparent;
+    color: white;
+    padding:10px;
+    font-size: 20px;
+    margin-left:30px;
+}

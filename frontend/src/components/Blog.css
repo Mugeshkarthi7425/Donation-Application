@@ -1,0 +1,54 @@
+body{
+    background-image:url("https://img.freepik.com/free-photo/donate-sign-charity-campaign_53876-127165.jpg?t=st=1715251194~exp=1715254794~hmac=b20b3b7c9a601eaf97234e8fca9d02aa0c38c79ec75e6d63fa4f9acb870aa5ca&w=1380") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+form {
+    border-style: solid;
+    border-radius: 15px;
+    border-color: rgb(11, 11, 11);
+    background-color:transparent;
+
+    width: 450px;
+    margin-left: 500px;
+    padding: 20px; /* Added padding for better spacing */
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    backdrop-filter: blur(2px);
+    transition:(0.1,0.1);
+    
+    border: 2px solid rgba(255,255,255,0.1);
+    box-shadow: 0 0 40px rgba(8,7,16,0.6);
+}
+
+.mb-3 {
+    padding: 15px;
+}
+
+h3 {
+    text-align: center;
+    color: rgb(7, 1, 1);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-style: bold;
+    font-size: 60px;
+}
+.table
+{
+    margin: 20px;
+    max-width:600px;
+    margin-left:430px;
+}
+.table button
+{
+    padding:5px;
+    margin-left:10px;
+    border-radius: 5px;
+    background: rgb(241, 14, 105);
+    color:#fff;
+    border-style: none;
+
+}
