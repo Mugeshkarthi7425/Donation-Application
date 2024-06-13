@@ -102,5 +102,10 @@ app.delete('/posts/:id', async (req, res) => {
 });
 
 app.listen(PORT, () => {
+<<<<<<< HEAD
   console.log(`Server is running on http://127.0.0.1:${PORT}`);
 });
+=======
+    console.log(`Server is running on http://127.0.0.1:${PORT}`);
+  });
+>>>>>>> 19a16940f4db792decd73bb84e8947f4feea11a3
